@@ -32,20 +32,13 @@ class App extends Component {
               </div>
               <div class="page" id="p4">
                 <section class="icon fa fa-dribbble">
-                  <span class="title">My Stack of Work</span>
-                  <p class="hint">
-                    <a href="https://dribbble.com/albertohartzet" target="_blank">Im ready to play, <span class="hint line-trough">invite me </span> find me</a>
-                  </p>
-                  <p class="hint">Already invited by <a href="http://www.dribbble.com/mrpeters" target="_blank">Stan Peters</a></p>
+                  <span class="title">My Stack of Work</span>      
                 </section>
               </div> 
               <div class="page" id="p5">
                 <section class="icon fa fa-plus-circle">
                   <span class="title">My Repositories and There Descriptions</span>
-                  <p class="hint">
-                    <span>You love one page & CSS only stuff? </span><br/>
-                    <a href="https://codepen.io/hrtzt/details/pgXMYb/" target="_blank">check this pen "Pure CSS One page vertical navigation"</a>
-                  </p>
+               
                 </section>
                 </div> 
               </div> 
