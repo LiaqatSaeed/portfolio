@@ -5,7 +5,6 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-<<<<<<< HEAD
                  <div class="ct" id="t1">
         <div class="ct" id="t2">
           <div class="ct" id="t3">
@@ -53,16 +52,6 @@ class App extends Component {
             </div>
           </div>
         </div>
-=======
-      <div className="App">
-        <header className="App-header">
-         
-          <h1 className="App-title">Welcome to my profile</h1>
-        </header>
-        <p className="App-intro">
-        will start working on my profile development using <react className="js"></react>
-        </p>
->>>>>>> 91ee713e70762649337188c9f424c312afc27be5
       </div>
     );
   }
