@@ -9,10 +9,11 @@ html, body, .page {
   -o-transition: all .6s cubic-bezier(.5, .2, .2, 1.1);  
   color: #fff;
   overflow: hidden; 
+ 
 }
 
 * {
-  font-family: 'open sans', 'lato', 'helvetica', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .page {
@@ -189,4 +190,29 @@ a {
   -moz-transform: translateX(0) !important;
   -o-transform: translateX(0) !important;
   transition-delay: 1s;
+}
+span.thatElement-me {
+  position: fixed;
+  width: 10%;
+  display: block;
+  top: 20px;
+}
+
+.that-img-responsive {
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.that-img-responsive img{
+  width: 101%;
+    position: relative;
+    top: -12px;
+}
+span.my-name {
+  display: block;
+  color: white;
+  font-family: 'Seaweed Script', cursive;
+  letter-spacing: 3px;
 }

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './itsme.jpg';
 import './App.css';
 
 class App extends Component {
@@ -11,6 +11,12 @@ class App extends Component {
             <div class="ct" id="t4">
             <div class="ct" id="t5">
             <ul id="menu">
+            <span class="thatElement-me">
+              <div class="that-img-responsive">
+              <img src={logo} alt="img here" srcset=""/>
+              </div>
+              <span class="my-name">L.S.Khan</span>
+              </span>
                 <a href="#t1"><li class="icon fa fa-home" id="uno"></li></a>
                 <a href="#t2"><li class="icon fa fa-paint-brush" id="dos"></li></a>
                 <a href="#t3"><li class="icon fa fa-code" id="tres"></li></a>
