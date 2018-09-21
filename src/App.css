@@ -210,9 +210,12 @@ span.thatElement-me {
     position: relative;
     top: -12px;
 }
-span.my-name {
+u.my-name {
   display: block;
   color: white;
   font-family: 'Seaweed Script', cursive;
   letter-spacing: 3px;
+  font-size: 30px;
+  transform: rotate(-30deg);
+  margin-top: 27px;
 }
