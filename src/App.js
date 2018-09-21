@@ -25,6 +25,7 @@ class App extends Component {
                  <section class="icon">
                    <span class="title">
                    <span class="block font-family">I am a Software Engineer</span>
+                   <span class="extra"></span>
                      <div class="mp-me">
                      <img src={logo} alt="" srcset=""/>
                      </div>
