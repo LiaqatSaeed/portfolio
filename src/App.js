@@ -22,25 +22,30 @@ class App extends Component {
                 <a href="#t5"><li class="icon fa fa-code-fork" id="cinco"></li></a>
               </ul>
               <div class="page" id="p1">
-                 <section class="icon fa fa-bolt">
-                   <span class="title">Home Section</span>
+                 <section class="icon">
+                   <span class="title">
+                   <span class="block font-family">I am a Software Engineer</span>
+                     <div class="mp-me">
+                     <img src={logo} alt="" srcset=""/>
+                     </div>
+                     </span>
                    <span class="hint">This Section Will Explain me<br/>
                    My BioGraphy My Achivement My Goals My Plans</span>
                   </section>  
               </div>
               <div class="page" id="p2">
-                <section class="icon fa fa-keyboard-o"><span class="title">This Page will Contain all my Stuff realted to designing</span></section>
+                <section class="icon"><span class="title">This Page will Contain all my Stuff realted to designing</span></section>
               </div> 
               <div class="page" id="p3">
-                <section class="icon fa fa-rocket"><span class="title">This Page will contain all my Stuff Related to Coding</span></section>
+                <section class="icon"><span class="title">This Page will contain all my Stuff Related to Coding</span></section>
               </div>
               <div class="page" id="p4">
-                <section class="icon fa fa-dribbble">
+                <section class="icon">
                   <span class="title">My Stack of Work</span>      
                 </section>
               </div> 
               <div class="page" id="p5">
-                <section class="icon fa fa-plus-circle">
+                <section class="icon">
                   <span class="title">My Repositories and There Descriptions</span>
                
                 </section>
