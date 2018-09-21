@@ -174,16 +174,16 @@ a {
 }
 
 
-#t1:target .page#p1 .icon{
+.page#p1 .icon{
   left: -11px;
 }
-#t1:target .page#p1 span.title{
+.page#p1 span.title{
   background: #113240;
   margin-bottom: 100px;
   height: 194px;
   position: relative;
 }
-#t1:target .page#p1 span.title:before {
+.page#p1 span.title:before {
   content: '';
   width: 0;
   height: 0;
@@ -200,7 +200,7 @@ a {
 }
 
 
-#t1:target .page#p1 span.title:after {
+.page#p1 span.title:after {
   content: '';
   width: 0;
   height: 0;
